@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.habitifylogo
+{
+    height: 50px;
+}
+.navbar{
+    background-color: white;
+}
+.nav-item
+{
+    color: #707070;
+    font-weight: 500;
+    padding-left: 40px;
+}
+
+.section-1
+{
+    padding: 0;
+    height: 700px;
+    width: 100%;
+    background-image: url(img/img1.jpg);
+    background-size:cover ;
+    background-position: 70%;
+
+}
+.mt-sec1
+{
+    margin-top: 5rem;
+}
+.section-2
+{
+    height: auto;
+    width: 100%;
+
+}
+.section-3
+{
+    height: auto;
+    width: 100%;
+    background: #252525;
+    color: white;
+}
+.section-3-video
+{
+    margin:auto ;
+    width: 100%;
+    height: 100%;
+    padding: 2%;
+    
+}
+.section-4-img
+{
+    width: 90%;
+    padding: 2%;
+}
+.section-5
+{
+    height: auto;
+    width: 100%;
+   
+}
+.p-5
+{
+    padding: 9rem;
+}
+.cards2img
+{
+    width: 50px;
+    
+}
+.section-6
+{
+    width: 100%;
+    height: 700px;
+    background-image: url(img/section-6-bg.jpg);
+    background-size:cover ;
+    background-position: 50%;
+
+}
+
+.card:hover
+{
+    background-color: #0d6efd;
+}
+.section-7
+{
+    width: 100%;
+    height: auto;
+    background-color: black;
+
+}
+.footerhdtxt
+{
+    color: #fff;
+
+}
+.footerptxt 
+{
+    color: #707070;
+    max-width: 250px;
+}
+.pt-3:hover
+{
+    cursor: pointer;
+    color: #0d6efd;
+}
+.smicons
+{
+    display: flex;
+    gap: 10px;
+
+}
+.smicon
+{
+    width: 30px;
+    color: #707070;
+}
+.row
+{
+    padding-top: 10px;
+    
+
+}
+.col2txt
+{
+    color: #707070;
+    
+}
+.companiestxt
+{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.companiestxt:hover
+{
+    color: #0d6efd;
+    cursor: pointer;
+}
